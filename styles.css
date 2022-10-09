@@ -73,3 +73,7 @@ footer {
     width: 100%;
     text-align: center;
 }
+
+#davinci {
+    max-width: 100%;
+}
