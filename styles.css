@@ -67,7 +67,7 @@ h1 {
 
 footer {
     background-color: #edf2fb;
-    position: float;
+    position:static;
     bottom: 0px;
     height: auto;
     width: 100%;
