@@ -4,6 +4,7 @@ body {
     font-size: 100%;
     line-height: 140%;
     margin: 0%;
+    
 }
 
 header {
@@ -35,6 +36,7 @@ h1 {
     background-color: #c1d3fe;
     height: auto;
     position: fixed;
+    float: left;
     width: 15%;
     left: 0%;
 }
@@ -51,10 +53,10 @@ h1 {
 }
 
 #content {
-    position: fixed;
+    position: float;
     background-color: #ccdbfd;
     padding: 5%;
-    width: 65%;
+    width: auto;
     height: auto;
     
 }
@@ -65,8 +67,8 @@ h1 {
 
 footer {
     background-color: #edf2fb;
-    position: absolute;
-    bottom: 0%;
+    position: float;
+    bottom: 0px;
     height: auto;
     width: 100%;
     text-align: center;
