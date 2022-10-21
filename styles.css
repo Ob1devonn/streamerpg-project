@@ -42,7 +42,7 @@ h1 {
 
 }
 
-#sidebar a:hover {
+#sidebar a:hover, .link:hover{
     color: #ABC4FF;
 }
 
