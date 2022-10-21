@@ -89,11 +89,7 @@ footer {
 
 .fig {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
-}
-
-.fig div {
-    
-    margin-left: 5%;
+    flex-wrap: wrap;
 }
