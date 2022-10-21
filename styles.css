@@ -39,7 +39,13 @@ h1 {
     float: left;
     width: 15%;
     left: 0%;
+
 }
+
+#sidebar a:hover {
+    color: #ABC4FF;
+}
+
 
 #pages li {
     text-align: center;
@@ -79,4 +85,15 @@ footer {
 
 .images, #sidebar, #content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.fig {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.fig div {
+    
+    margin-left: 5%;
 }
