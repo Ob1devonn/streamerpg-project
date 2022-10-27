@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     line-height: 140%;
-    margin: 0%;
+    margin: 0;
     
 }
 
@@ -81,6 +81,7 @@ footer {
 
 .images {
     max-width: 100%;
+    height:auto;
 }
 
 .images, #sidebar, #content {
