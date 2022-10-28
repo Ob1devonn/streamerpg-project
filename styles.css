@@ -12,7 +12,6 @@ header {
     background-image: url("images/onur-binay-O2-EZNGZIyk-unsplash-min.jpg");
     background-size:cover;
     background-position:center;
-    height: 20%;
     
 }
 
@@ -38,7 +37,7 @@ h1 {
     position: fixed;
     float: left;
     width: 15%;
-    left: 0%;
+    left: 0;
 
 }
 
@@ -58,7 +57,7 @@ h1 {
     text-decoration: none;
 }
 
-#content {
+.content {
     background-color: #ccdbfd;
     padding: 5%;
     width: auto;
@@ -72,8 +71,8 @@ h1 {
 
 footer {
     position:static;
-    bottom: 0px;
-    left: 0px;
+    bottom: 0;
+    left: 0;
     height: auto;
     width: 100%;
     text-align: center;
@@ -84,7 +83,7 @@ footer {
     height:auto;
 }
 
-.images, #sidebar, #content {
+.images, #sidebar, .content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -92,5 +91,17 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    flex-wrap: wrap;
 }
+
+.icons a {
+    display: block;
+}
+.icons {
+    display: flex;
+}
+
+.vids {
+    display: flex;
+    flex-flow: column;
+}
+
