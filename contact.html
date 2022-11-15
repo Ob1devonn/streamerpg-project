@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
     <header>
-        <h1 class="title">About</h1>
+        <h1 class="title">Contact</h1>
     </header>
 
     <div id="center"> 
@@ -40,8 +40,10 @@
         </aside>
 
         <div class="fig content">
+
+
             <div class="container">
-                <form action="action_page.php">
+                <form action="demo.php" method="post">
 
                     <label for="fname">First name</label>
                     <input type="text" id="fname" name="firstname" placeholder="Your first name">
@@ -57,10 +59,10 @@
                     </select>
 
                     <label for="message">Message</label>
-                    <textarea id="message" name="message" placeholder="Send me a message..." style="height:200px">
-                    </textarea>
+                    <textarea id="message" name="message" placeholder="Send me a message..." style="height:200px"></textarea>
 
                     <input type="submit" value="Submit">
+                    <input type="reset" value="reset">
                 </form>
             </div>
 
