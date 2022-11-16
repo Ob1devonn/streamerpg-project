@@ -1,22 +1,23 @@
-<?php print "<!doctype html>
-<html lang=\"en\">
+<?php print "<!DOCTYPE html
 <head>
-<title>Form Confirmation Page</title>
-</head>
+<title>Form Confirmation</title>
+<link rel=\"stylesheet\" href=\"demo.css\">
+ </head>
 <body>
-<hl >The form information received is given below:</h l >";
-$message = ";
-foreach ($_pOST as $key=> $value){
-$message.= $key . " : " . $value . "<br>\r\n";
-
-print $message; print "<hr>
-<hr>
-<hr>
-<br>I
-< hr >
-< hr >
-< form action=\"#\">
-<input type=\"button\" value  = \"Back\" onclick=\"javascript:history.go(-1)\" />
+<h1>Your information has been received.</h1>";
+$message = '';
+foreach ($_POST as $key => $value){
+$message .= $key . " : " . $value . "<br />\r\n";
+}
+print $message;
+print "<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<form action=\"#\">
+<input type=\"button\" value = \"Back\" onclick=\"javascript:history.go(-1)\">
 </form>
 </body>
 </html>"
