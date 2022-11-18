@@ -1,0 +1,1952 @@
+1
+00:00:00,599 --> 00:00:05,460
+hello and welcome this is going to be a
+
+2
+00:00:03,120 --> 00:00:08,820
+quick tutorial on how to get the basics
+
+3
+00:00:05,460 --> 00:00:10,019
+of your OBS correctly that way you could
+
+4
+00:00:08,820 --> 00:00:12,480
+do
+
+5
+00:00:10,019 --> 00:00:16,680
+relatively easy screen shares and
+
+6
+00:00:12,480 --> 00:00:18,180
+anything that has to do with streaming
+
+7
+00:00:16,680 --> 00:00:19,680
+first off of course you're going to want
+
+8
+00:00:18,180 --> 00:00:21,840
+to open obs
+
+9
+00:00:19,680 --> 00:00:24,619
+to get that loaded up you may get some
+
+10
+00:00:21,840 --> 00:00:28,140
+prompts for updates and stuff like that
+
+11
+00:00:24,619 --> 00:00:29,640
+typically what you want to do is on
+
+12
+00:00:28,140 --> 00:00:31,859
+first startup you want to make sure all
+
+13
+00:00:29,640 --> 00:00:34,320
+your settings are set up properly
+
+14
+00:00:31,859 --> 00:00:36,239
+a lot of the time with OBS the way it
+
+15
+00:00:34,320 --> 00:00:39,840
+goes is it'll have an automatic
+
+16
+00:00:36,239 --> 00:00:41,460
+configuration for your system which may
+
+17
+00:00:39,840 --> 00:00:43,440
+or may not be good
+
+18
+00:00:41,460 --> 00:00:45,840
+um that is all dependent on what kind of
+
+19
+00:00:43,440 --> 00:00:49,920
+specs you are running I'm running a
+
+20
+00:00:45,840 --> 00:00:54,300
+an RTX 2070 super with a uh was it a
+
+21
+00:00:49,920 --> 00:00:56,340
+ryzen 5 uh 3600 and it's not it's not
+
+22
+00:00:54,300 --> 00:00:59,699
+the best but it's obviously not the
+
+23
+00:00:56,340 --> 00:01:03,480
+worst uh typically with this you might
+
+24
+00:00:59,699 --> 00:01:06,780
+want to upgrade uh or change your theme
+
+25
+00:01:03,480 --> 00:01:10,920
+they got several different types as you
+
+26
+00:01:06,780 --> 00:01:12,060
+can see uh my favorite is yummy
+
+27
+00:01:10,920 --> 00:01:14,100
+um
+
+28
+00:01:12,060 --> 00:01:16,560
+typically by default these are all
+
+29
+00:01:14,100 --> 00:01:18,780
+clicked on this is completely up to your
+
+30
+00:01:16,560 --> 00:01:20,280
+preference I typically have them off
+
+31
+00:01:18,780 --> 00:01:22,320
+because I don't really need the
+
+32
+00:01:20,280 --> 00:01:24,360
+confirmation that it's going live or
+
+33
+00:01:22,320 --> 00:01:27,180
+it's starting recording it's relatively
+
+34
+00:01:24,360 --> 00:01:30,540
+annoying after you go through the uh
+
+35
+00:01:27,180 --> 00:01:32,659
+first bit of streaming let me reopen
+
+36
+00:01:30,540 --> 00:01:32,659
+this
+
+37
+00:01:34,020 --> 00:01:38,460
+when you first go around you you'll
+
+38
+00:01:36,840 --> 00:01:40,740
+obviously customize this to your fitting
+
+39
+00:01:38,460 --> 00:01:42,540
+there's a lot of pers uh preference
+
+40
+00:01:40,740 --> 00:01:45,659
+based
+
+41
+00:01:42,540 --> 00:01:48,479
+oh if you like Studio mode if you want
+
+42
+00:01:45,659 --> 00:01:51,240
+it to be a certain orientation uh
+
+43
+00:01:48,479 --> 00:01:53,280
+anything in that just if you wanted to
+
+44
+00:01:51,240 --> 00:01:54,899
+open in the background on Startup most
+
+45
+00:01:53,280 --> 00:01:57,240
+people don't but
+
+46
+00:01:54,899 --> 00:01:58,439
+that's clearly up to you
+
+47
+00:01:57,240 --> 00:01:59,939
+um this is where you would put your
+
+48
+00:01:58,439 --> 00:02:01,380
+stream key and where you're streaming to
+
+49
+00:01:59,939 --> 00:02:03,780
+you can stream to all these different
+
+50
+00:02:01,380 --> 00:02:04,680
+platforms you have presets
+
+51
+00:02:03,780 --> 00:02:07,020
+um
+
+52
+00:02:04,680 --> 00:02:08,580
+can be relatively important especially
+
+53
+00:02:07,020 --> 00:02:12,000
+if
+
+54
+00:02:08,580 --> 00:02:14,040
+say you started to stream and then
+
+55
+00:02:12,000 --> 00:02:16,140
+you notice it wasn't working or wasn't
+
+56
+00:02:14,040 --> 00:02:17,280
+broadcasting that would most likely be
+
+57
+00:02:16,140 --> 00:02:19,080
+either
+
+58
+00:02:17,280 --> 00:02:22,080
+on your um
+
+59
+00:02:19,080 --> 00:02:24,420
+your side the server side or it could be
+
+60
+00:02:22,080 --> 00:02:26,940
+your stream key most of the time it's
+
+61
+00:02:24,420 --> 00:02:28,500
+probably going to be a stream key I know
+
+62
+00:02:26,940 --> 00:02:31,440
+with a lot of content creators on
+
+63
+00:02:28,500 --> 00:02:34,800
+Facebook they typically cycle the stream
+
+64
+00:02:31,440 --> 00:02:36,900
+keep by 48 hours to prevent people from
+
+65
+00:02:34,800 --> 00:02:38,580
+getting access and
+
+66
+00:02:36,900 --> 00:02:40,560
+you don't really want anyone else to
+
+67
+00:02:38,580 --> 00:02:42,300
+have access to that that's it's like
+
+68
+00:02:40,560 --> 00:02:43,640
+having a MAC address you do a whole lot
+
+69
+00:02:42,300 --> 00:02:47,340
+of damage
+
+70
+00:02:43,640 --> 00:02:50,280
+next would be output it's going to be
+
+71
+00:02:47,340 --> 00:02:54,180
+how your settings are going to be set I
+
+72
+00:02:50,280 --> 00:02:56,340
+have mine set to Advanced because I sort
+
+73
+00:02:54,180 --> 00:02:57,860
+of know the formatting and what my
+
+74
+00:02:56,340 --> 00:03:01,440
+computer can handle
+
+75
+00:02:57,860 --> 00:03:04,500
+by default it's usually on
+
+76
+00:03:01,440 --> 00:03:06,780
+um I think this setting is normal or
+
+77
+00:03:04,500 --> 00:03:10,920
+regular or something like that
+
+78
+00:03:06,780 --> 00:03:14,760
+um that's for like those who aren't very
+
+79
+00:03:10,920 --> 00:03:15,800
+format based or know the formats
+
+80
+00:03:14,760 --> 00:03:19,800
+um
+
+81
+00:03:15,800 --> 00:03:21,540
+that can also be a preference as well uh
+
+82
+00:03:19,800 --> 00:03:23,159
+typically you're going to start on the
+
+83
+00:03:21,540 --> 00:03:24,900
+streaming side that's if you plan on
+
+84
+00:03:23,159 --> 00:03:30,180
+streaming you're going to have all these
+
+85
+00:03:24,900 --> 00:03:30,180
+formats from my understanding uh cqp
+
+86
+00:03:30,360 --> 00:03:36,860
+which is like constant quality
+
+87
+00:03:33,540 --> 00:03:39,360
+um something something along those lines
+
+88
+00:03:36,860 --> 00:03:42,840
+this the all these formats go off of
+
+89
+00:03:39,360 --> 00:03:45,120
+different uh like
+
+90
+00:03:42,840 --> 00:03:47,040
+okay so utilization what kind of
+
+91
+00:03:45,120 --> 00:03:49,620
+resources it Bulls like this one is bit
+
+92
+00:03:47,040 --> 00:03:52,260
+rate so it's based off of bits I think
+
+93
+00:03:49,620 --> 00:03:55,739
+it runs off of
+
+94
+00:03:52,260 --> 00:03:58,860
+internet if I am not wrong myself
+
+95
+00:03:55,739 --> 00:04:01,560
+um can you have presets and a tuning and
+
+96
+00:03:58,860 --> 00:04:04,379
+how many passages it'll go through
+
+97
+00:04:01,560 --> 00:04:08,040
+um in the profile of like
+
+98
+00:04:04,379 --> 00:04:11,280
+how the computer will prioritize this so
+
+99
+00:04:08,040 --> 00:04:13,200
+you could set it from Main Baseline to
+
+100
+00:04:11,280 --> 00:04:15,420
+underneath and then High
+
+101
+00:04:13,200 --> 00:04:18,060
+then you'd have stuff like like a head
+
+102
+00:04:15,420 --> 00:04:22,040
+and this basically getting powder is
+
+103
+00:04:18,060 --> 00:04:27,620
+going through encoding the uh B frames
+
+104
+00:04:22,040 --> 00:04:27,620
+then there's psycho tuning
+
+105
+00:04:30,060 --> 00:04:37,880
+typically just helps with the High um
+
+106
+00:04:33,900 --> 00:04:40,979
+High emotions but then you get the GPU
+
+107
+00:04:37,880 --> 00:04:42,900
+and the Max B frames some of the stuff
+
+108
+00:04:40,979 --> 00:04:44,400
+can be tweaked um I typically use leave
+
+109
+00:04:42,900 --> 00:04:47,060
+them default because most of the time
+
+110
+00:04:44,400 --> 00:04:50,160
+it's already preset and already encoded
+
+111
+00:04:47,060 --> 00:04:52,080
+next would be recordings as you can see
+
+112
+00:04:50,160 --> 00:04:53,639
+it's in standard
+
+113
+00:04:52,080 --> 00:04:55,259
+um you can even change it I think
+
+114
+00:04:53,639 --> 00:04:57,600
+there's also an advanced mode for this
+
+115
+00:04:55,259 --> 00:04:58,919
+and it gets really into depth but I
+
+116
+00:04:57,600 --> 00:05:00,240
+don't recommend it
+
+117
+00:04:58,919 --> 00:05:02,400
+um most of the time what you want to do
+
+118
+00:05:00,240 --> 00:05:04,620
+is you're going to want to have a folder
+
+119
+00:05:02,400 --> 00:05:06,600
+that you have or you can leave it in the
+
+120
+00:05:04,620 --> 00:05:08,880
+default which is most of the time it's
+
+121
+00:05:06,600 --> 00:05:12,120
+going to be your uh
+
+122
+00:05:08,880 --> 00:05:14,100
+what is it your windows video folder or
+
+123
+00:05:12,120 --> 00:05:15,900
+if you're on a Mac it's probably the
+
+124
+00:05:14,100 --> 00:05:17,460
+default
+
+125
+00:05:15,900 --> 00:05:19,620
+um pathway for that
+
+126
+00:05:17,460 --> 00:05:22,680
+now as you can see there's all these
+
+127
+00:05:19,620 --> 00:05:25,020
+options like I could generate a file
+
+128
+00:05:22,680 --> 00:05:26,940
+name without spacing I could change the
+
+129
+00:05:25,020 --> 00:05:29,100
+format which I'm currently recording in
+
+130
+00:05:26,940 --> 00:05:32,100
+MP4 I don't recommend this because as
+
+131
+00:05:29,100 --> 00:05:35,880
+you can see the warning Below in MP4 and
+
+132
+00:05:32,100 --> 00:05:39,060
+mov it will not be recoverable if and at
+
+133
+00:05:35,880 --> 00:05:42,080
+any point it 10 if it crashes or
+
+134
+00:05:39,060 --> 00:05:46,919
+anything along the line of your um
+
+135
+00:05:42,080 --> 00:05:48,720
+your video not coming to a proper end
+
+136
+00:05:46,919 --> 00:05:50,940
+um so like if like
+
+137
+00:05:48,720 --> 00:05:52,740
+some reason your culture crashes it's
+
+138
+00:05:50,940 --> 00:05:54,300
+not going to save the progress
+
+139
+00:05:52,740 --> 00:05:57,240
+and you're gonna get just gonna get a
+
+140
+00:05:54,300 --> 00:06:00,620
+corrupt file the best format to use is
+
+141
+00:05:57,240 --> 00:06:04,680
+uh MKV in my personal preference because
+
+142
+00:06:00,620 --> 00:06:07,380
+though it does take a bit more as you
+
+143
+00:06:04,680 --> 00:06:09,300
+can see you can have multiple audio
+
+144
+00:06:07,380 --> 00:06:12,300
+tracks
+
+145
+00:06:09,300 --> 00:06:13,860
+um it's easy for you to uh remix because
+
+146
+00:06:12,300 --> 00:06:16,620
+all you got to do is uh
+
+147
+00:06:13,860 --> 00:06:19,020
+go let me exit out this real quick all
+
+148
+00:06:16,620 --> 00:06:20,120
+you got to do is go up here and then OBS
+
+149
+00:06:19,020 --> 00:06:22,380
+has a
+
+150
+00:06:20,120 --> 00:06:27,360
+remixer which is going to convert it
+
+151
+00:06:22,380 --> 00:06:30,419
+from MKV MKV to a format that you choose
+
+152
+00:06:27,360 --> 00:06:32,100
+I think it's just MP4 by default
+
+153
+00:06:30,419 --> 00:06:34,440
+that's really good for like um if you're
+
+154
+00:06:32,100 --> 00:06:38,220
+using a video editor that only accepts
+
+155
+00:06:34,440 --> 00:06:39,840
+MP4 or I think it's mov or something
+
+156
+00:06:38,220 --> 00:06:41,280
+like that
+
+157
+00:06:39,840 --> 00:06:44,160
+anyways
+
+158
+00:06:41,280 --> 00:06:45,960
+um so as you know the output has the
+
+159
+00:06:44,160 --> 00:06:47,460
+recording settings as well and then
+
+160
+00:06:45,960 --> 00:06:49,860
+these are going to be audio tracks that
+
+161
+00:06:47,460 --> 00:06:54,660
+you could set
+
+162
+00:06:49,860 --> 00:06:56,880
+you can have it isolated and
+
+163
+00:06:54,660 --> 00:06:57,960
+I don't think it's here
+
+164
+00:06:56,880 --> 00:06:59,759
+but
+
+165
+00:06:57,960 --> 00:07:03,060
+yeah so it's for the audio tracks you
+
+166
+00:06:59,759 --> 00:07:04,259
+could isolate them so I have two for I
+
+167
+00:07:03,060 --> 00:07:07,319
+think
+
+168
+00:07:04,259 --> 00:07:08,880
+I have two for the stream itself so like
+
+169
+00:07:07,319 --> 00:07:11,699
+what everyone is hearing on that side
+
+170
+00:07:08,880 --> 00:07:14,100
+now that's no no that's my desktop
+
+171
+00:07:11,699 --> 00:07:16,620
+that's the desktop audio and three would
+
+172
+00:07:14,100 --> 00:07:19,080
+be my mic so I'd have these two on a
+
+173
+00:07:16,620 --> 00:07:21,060
+separate audio file just in case I've
+
+174
+00:07:19,080 --> 00:07:23,400
+had to retweak them like let's say I'm
+
+175
+00:07:21,060 --> 00:07:26,160
+playing a game it gets too loud and then
+
+176
+00:07:23,400 --> 00:07:29,340
+you can't hear me so I gotta tweak it so
+
+177
+00:07:26,160 --> 00:07:31,860
+my gain on my um my three track is a
+
+178
+00:07:29,340 --> 00:07:34,620
+whole lot better I typically
+
+179
+00:07:31,860 --> 00:07:37,440
+um have it set so my audio track is one
+
+180
+00:07:34,620 --> 00:07:39,900
+for streaming because you have audio
+
+181
+00:07:37,440 --> 00:07:41,880
+tracks as well but you don't want them
+
+182
+00:07:39,900 --> 00:07:45,720
+to overlap when you're doing recordings
+
+183
+00:07:41,880 --> 00:07:46,979
+because it caused a bit of an issue it's
+
+184
+00:07:45,720 --> 00:07:49,080
+not fun to play with
+
+185
+00:07:46,979 --> 00:07:51,000
+so audio track I typically leave for one
+
+186
+00:07:49,080 --> 00:07:52,740
+for streaming and then for everything
+
+187
+00:07:51,000 --> 00:07:54,599
+else I have two and three those are
+
+188
+00:07:52,740 --> 00:07:57,120
+reserved for separate individuals so
+
+189
+00:07:54,599 --> 00:07:59,280
+this is like a this one would be like my
+
+190
+00:07:57,120 --> 00:08:01,740
+streaming and my talking I mean this
+
+191
+00:07:59,280 --> 00:08:04,080
+would be the desktop or whatever game
+
+192
+00:08:01,740 --> 00:08:05,039
+I'm playing and my talking and this
+
+193
+00:08:04,080 --> 00:08:07,319
+would be
+
+194
+00:08:05,039 --> 00:08:09,599
+um this would be my desktop or the game
+
+195
+00:08:07,319 --> 00:08:12,419
+I'm playing and then maybe my talking
+
+196
+00:08:09,599 --> 00:08:14,460
+uh the way that works is
+
+197
+00:08:12,419 --> 00:08:15,660
+you can go let's say you have an audio
+
+198
+00:08:14,460 --> 00:08:17,280
+Source here
+
+199
+00:08:15,660 --> 00:08:19,560
+one of these two a lot of these sources
+
+200
+00:08:17,280 --> 00:08:22,379
+I have them uh in a Direct Read though
+
+201
+00:08:19,560 --> 00:08:25,740
+it's easier for me to understand it
+
+202
+00:08:22,379 --> 00:08:26,340
+you're typically going to go here to the
+
+203
+00:08:25,740 --> 00:08:28,259
+um
+
+204
+00:08:26,340 --> 00:08:30,599
+the audio mixer you're going to go to
+
+205
+00:08:28,259 --> 00:08:32,279
+Advanced Audio properties and then
+
+206
+00:08:30,599 --> 00:08:34,860
+you're going to set the tracks so as you
+
+207
+00:08:32,279 --> 00:08:37,020
+can see this is my mic I was wrong
+
+208
+00:08:34,860 --> 00:08:38,459
+it's on oh that was right yeah it's on
+
+209
+00:08:37,020 --> 00:08:40,440
+one and three
+
+210
+00:08:38,459 --> 00:08:43,260
+so it has its own separate file on three
+
+211
+00:08:40,440 --> 00:08:45,000
+yeah that typically when I record it's
+
+212
+00:08:43,260 --> 00:08:46,800
+not going to catch one because then I
+
+213
+00:08:45,000 --> 00:08:48,959
+don't have overlays and I set it to two
+
+214
+00:08:46,800 --> 00:08:51,959
+and three only
+
+215
+00:08:48,959 --> 00:08:55,500
+so for the stream audio as you can tell
+
+216
+00:08:51,959 --> 00:08:59,399
+uh it's gonna go two and three and then
+
+217
+00:08:55,500 --> 00:09:02,880
+that's basically just like my gameplay
+
+218
+00:08:59,399 --> 00:09:06,180
+uh I don't know why I have it on three
+
+219
+00:09:02,880 --> 00:09:07,500
+it's just basically like my gameplay and
+
+220
+00:09:06,180 --> 00:09:10,080
+um
+
+221
+00:09:07,500 --> 00:09:12,420
+It's Gonna Catch like anything along the
+
+222
+00:09:10,080 --> 00:09:14,040
+lines of
+
+223
+00:09:12,420 --> 00:09:16,140
+like if I have Discord open it'll catch
+
+224
+00:09:14,040 --> 00:09:19,880
+those that audio it's all coming from my
+
+225
+00:09:16,140 --> 00:09:19,880
+computer it's gonna go through too
+
+226
+00:09:20,880 --> 00:09:25,800
+now it's because three I have set for um
+
+227
+00:09:24,360 --> 00:09:27,600
+are we supposed to be my stream I don't
+
+228
+00:09:25,800 --> 00:09:29,459
+know I reset it on
+
+229
+00:09:27,600 --> 00:09:30,839
+my settings it's weird
+
+230
+00:09:29,459 --> 00:09:32,580
+must have been because I switched to
+
+231
+00:09:30,839 --> 00:09:35,040
+format
+
+232
+00:09:32,580 --> 00:09:37,380
+normally it's set to three all right
+
+233
+00:09:35,040 --> 00:09:38,820
+it's important because every now and
+
+234
+00:09:37,380 --> 00:09:40,680
+then if you switch formats it will
+
+235
+00:09:38,820 --> 00:09:42,600
+definitely change your settings so you
+
+236
+00:09:40,680 --> 00:09:45,240
+need to memorize these otherwise
+
+237
+00:09:42,600 --> 00:09:48,300
+kit by two in the butt
+
+238
+00:09:45,240 --> 00:09:51,060
+so as I'm going on what you will notice
+
+239
+00:09:48,300 --> 00:09:52,620
+is the encoder encoders
+
+240
+00:09:51,060 --> 00:09:53,940
+um they vary it depends on what kind of
+
+241
+00:09:52,620 --> 00:09:56,779
+components you're running
+
+242
+00:09:53,940 --> 00:09:59,760
+as I've listed in my recommendations tab
+
+243
+00:09:56,779 --> 00:10:02,700
+you can have an assortment of different
+
+244
+00:09:59,760 --> 00:10:05,899
+types of
+
+245
+00:10:02,700 --> 00:10:08,700
+um processing units such as CPUs or gpus
+
+246
+00:10:05,899 --> 00:10:10,620
+uh graphics card you typically want to
+
+247
+00:10:08,700 --> 00:10:12,480
+do the running depending on how strong
+
+248
+00:10:10,620 --> 00:10:16,620
+it is because if you're playing a video
+
+249
+00:10:12,480 --> 00:10:19,680
+game you're um the coder
+
+250
+00:10:16,620 --> 00:10:21,120
+I mean for the video game typically a
+
+251
+00:10:19,680 --> 00:10:23,760
+lot of the workload is going to go on
+
+252
+00:10:21,120 --> 00:10:25,380
+the CPU depending on how they have the
+
+253
+00:10:23,760 --> 00:10:28,080
+game formatted
+
+254
+00:10:25,380 --> 00:10:30,300
+now you can go through and
+
+255
+00:10:28,080 --> 00:10:33,660
+customizing encoder settings and go
+
+256
+00:10:30,300 --> 00:10:35,040
+further on about that but unless you
+
+257
+00:10:33,660 --> 00:10:36,839
+know what you're doing and looked into
+
+258
+00:10:35,040 --> 00:10:39,360
+it I wouldn't recommend changing any of
+
+259
+00:10:36,839 --> 00:10:41,160
+the encoder settings unless you know
+
+260
+00:10:39,360 --> 00:10:42,060
+what you're doing
+
+261
+00:10:41,160 --> 00:10:43,800
+um
+
+262
+00:10:42,060 --> 00:10:46,079
+next would be audio you don't want to
+
+263
+00:10:43,800 --> 00:10:48,060
+really change that or the replay buffer
+
+264
+00:10:46,079 --> 00:10:49,860
+you can change that to have free play
+
+265
+00:10:48,060 --> 00:10:52,380
+like in your stream you can have like a
+
+266
+00:10:49,860 --> 00:10:54,180
+key or you can have your um
+
+267
+00:10:52,380 --> 00:10:56,279
+stream have access to it and then they
+
+268
+00:10:54,180 --> 00:10:59,279
+can play Replay and have like a little
+
+269
+00:10:56,279 --> 00:11:02,940
+screen it plays like a little video of
+
+270
+00:10:59,279 --> 00:11:06,060
+the last 20 seconds or then on another
+
+271
+00:11:02,940 --> 00:11:07,920
+tab here is the audio tab uh you want to
+
+272
+00:11:06,060 --> 00:11:10,440
+leave that at 48 kilohertz
+
+273
+00:11:07,920 --> 00:11:13,440
+um stereo is pretty good I think you
+
+274
+00:11:10,440 --> 00:11:15,480
+could change it to Mono
+
+275
+00:11:13,440 --> 00:11:18,600
+I'm not sure if that's correct but
+
+276
+00:11:15,480 --> 00:11:22,079
+typically I use I use a
+
+277
+00:11:18,600 --> 00:11:24,839
+a audio interface so I don't typically
+
+278
+00:11:22,079 --> 00:11:27,959
+use these by default these are usually
+
+279
+00:11:24,839 --> 00:11:30,120
+set up in a way where if you don't have
+
+280
+00:11:27,959 --> 00:11:32,640
+an audio file I mean an audio Source
+
+281
+00:11:30,120 --> 00:11:34,980
+down here it'll play regardless so I
+
+282
+00:11:32,640 --> 00:11:39,000
+have it tapered to the way I can isolate
+
+283
+00:11:34,980 --> 00:11:40,260
+my audio as such so my mic and my stream
+
+284
+00:11:39,000 --> 00:11:42,779
+audio
+
+285
+00:11:40,260 --> 00:11:46,620
+and it's all separated and it comes out
+
+286
+00:11:42,779 --> 00:11:48,779
+very crisp when I go through and edit it
+
+287
+00:11:46,620 --> 00:11:50,399
+I don't want to you could change this if
+
+288
+00:11:48,779 --> 00:11:52,860
+you'd like it's completely up to
+
+289
+00:11:50,399 --> 00:11:55,019
+preference I use um my third party which
+
+290
+00:11:52,860 --> 00:11:56,279
+is a voice meter it's pretty good if you
+
+291
+00:11:55,019 --> 00:12:00,120
+know what you're doing it can be
+
+292
+00:11:56,279 --> 00:12:02,519
+relatively confusing later on but that's
+
+293
+00:12:00,120 --> 00:12:06,140
+something you would have to get into
+
+294
+00:12:02,519 --> 00:12:08,820
+there's options for ducking and latency
+
+295
+00:12:06,140 --> 00:12:11,880
+you can even have
+
+296
+00:12:08,820 --> 00:12:14,459
+um hot keys for like muting
+
+297
+00:12:11,880 --> 00:12:16,320
+and then for the videos you typically
+
+298
+00:12:14,459 --> 00:12:18,180
+want this to be
+
+299
+00:12:16,320 --> 00:12:20,040
+whatever your screen is this is wrong
+
+300
+00:12:18,180 --> 00:12:21,839
+because my screen is
+
+301
+00:12:20,040 --> 00:12:24,839
+um
+
+302
+00:12:21,839 --> 00:12:28,019
+I think it's it's a really weird I think
+
+303
+00:12:24,839 --> 00:12:29,399
+it's like a 2024 I don't know it's a
+
+304
+00:12:28,019 --> 00:12:32,399
+weird resolution
+
+305
+00:12:29,399 --> 00:12:34,560
+um it's probably twice this
+
+306
+00:12:32,399 --> 00:12:36,420
+um that's typically what you wanted to
+
+307
+00:12:34,560 --> 00:12:39,060
+do is you wanted to have your screen
+
+308
+00:12:36,420 --> 00:12:40,800
+size for the first one of your space and
+
+309
+00:12:39,060 --> 00:12:43,440
+the output which is going to be your
+
+310
+00:12:40,800 --> 00:12:45,899
+viewers screen size most of the time
+
+311
+00:12:43,440 --> 00:12:50,040
+it's just 1920 so
+
+312
+00:12:45,899 --> 00:12:53,519
+that's important but if you were to like
+
+313
+00:12:50,040 --> 00:12:55,920
+perhaps uh it's if you're recording for
+
+314
+00:12:53,519 --> 00:12:58,500
+tick tock this would be opposite from
+
+315
+00:12:55,920 --> 00:13:01,560
+what I understand because it's a it's a
+
+316
+00:12:58,500 --> 00:13:05,760
+9 by 16 ratio for the cell phones
+
+317
+00:13:01,560 --> 00:13:08,040
+but that that that's for another video
+
+318
+00:13:05,760 --> 00:13:10,620
+um typically when you downscale
+
+319
+00:13:08,040 --> 00:13:12,480
+um you're gonna have like bi-linear a
+
+320
+00:13:10,620 --> 00:13:15,180
+couple other versions
+
+321
+00:13:12,480 --> 00:13:17,760
+um I'm not gonna go into that yet
+
+322
+00:13:15,180 --> 00:13:19,399
+because it's not it's not it is
+
+323
+00:13:17,760 --> 00:13:21,720
+important but at the same time it's not
+
+324
+00:13:19,399 --> 00:13:23,339
+all too important unless you know what
+
+325
+00:13:21,720 --> 00:13:24,120
+you're doing same thing with the frame
+
+326
+00:13:23,339 --> 00:13:25,079
+rates
+
+327
+00:13:24,120 --> 00:13:26,459
+um
+
+328
+00:13:25,079 --> 00:13:29,339
+frame rates you got to keep this in mind
+
+329
+00:13:26,459 --> 00:13:31,860
+with certain games and certain videos
+
+330
+00:13:29,339 --> 00:13:33,660
+like unless you're
+
+331
+00:13:31,860 --> 00:13:36,240
+doing gameplay
+
+332
+00:13:33,660 --> 00:13:38,760
+probably don't want to do anything above
+
+333
+00:13:36,240 --> 00:13:41,100
+30 because kid get relatively weird with
+
+334
+00:13:38,760 --> 00:13:43,680
+frame rates it's not more the better
+
+335
+00:13:41,100 --> 00:13:46,079
+it's it it basically it's just how many
+
+336
+00:13:43,680 --> 00:13:48,000
+frames you have per second
+
+337
+00:13:46,079 --> 00:13:52,019
+that's the literal definition of frames
+
+338
+00:13:48,000 --> 00:13:53,760
+per second so for FPS you um for video
+
+339
+00:13:52,019 --> 00:13:56,279
+games to catch smaller actions you
+
+340
+00:13:53,760 --> 00:13:59,639
+typically want more frames or like if
+
+341
+00:13:56,279 --> 00:14:02,880
+you're doing like uh self-recording with
+
+342
+00:13:59,639 --> 00:14:05,639
+like a Blog of yourself the camera I
+
+343
+00:14:02,880 --> 00:14:08,160
+recommend leaving at around 30 maybe
+
+344
+00:14:05,639 --> 00:14:11,100
+even 24 because that's
+
+345
+00:14:08,160 --> 00:14:15,300
+that's just how we kind of receive it
+
+346
+00:14:11,100 --> 00:14:17,880
+anything faster than like 30 and it's a
+
+347
+00:14:15,300 --> 00:14:19,440
+face cam it kind of looks weird there's
+
+348
+00:14:17,880 --> 00:14:21,959
+been there's like tests that'll talk
+
+349
+00:14:19,440 --> 00:14:24,120
+about how um
+
+350
+00:14:21,959 --> 00:14:26,160
+they had done a recording in a faster uh
+
+351
+00:14:24,120 --> 00:14:29,399
+frame per second and it just looked very
+
+352
+00:14:26,160 --> 00:14:31,320
+janky and stuttery but that's that's for
+
+353
+00:14:29,399 --> 00:14:33,420
+another video as well here you have your
+
+354
+00:14:31,320 --> 00:14:36,779
+hotkeys a lot of these are important
+
+355
+00:14:33,420 --> 00:14:38,880
+because these are your safe nuts
+
+356
+00:14:36,779 --> 00:14:41,459
+so you don't have to go through and have
+
+357
+00:14:38,880 --> 00:14:43,199
+to go into your um settings it's really
+
+358
+00:14:41,459 --> 00:14:45,839
+important especially if you only have
+
+359
+00:14:43,199 --> 00:14:47,639
+one screen you're streaming to that
+
+360
+00:14:45,839 --> 00:14:50,399
+you don't want to typically have to
+
+361
+00:14:47,639 --> 00:14:52,560
+multitask or have to pull this up every
+
+362
+00:14:50,399 --> 00:14:54,660
+time because some sometimes when you are
+
+363
+00:14:52,560 --> 00:14:56,579
+in some applications they
+
+364
+00:14:54,660 --> 00:14:59,699
+screen lock you and they won't let you
+
+365
+00:14:56,579 --> 00:15:03,680
+drift off into another screen for your
+
+366
+00:14:59,699 --> 00:15:03,680
+the purpose of usability
+
+367
+00:15:04,380 --> 00:15:08,940
+as you go through you can I don't know
+
+368
+00:15:06,779 --> 00:15:10,139
+what the limit for the key inputs are I
+
+369
+00:15:08,940 --> 00:15:12,420
+would imagine you wouldn't want to do
+
+370
+00:15:10,139 --> 00:15:14,220
+more than three and that sounds like it
+
+371
+00:15:12,420 --> 00:15:17,760
+would get really complicated but I have
+
+372
+00:15:14,220 --> 00:15:19,920
+it so it's a combination of two keys
+
+373
+00:15:17,760 --> 00:15:22,860
+so I'll have like
+
+374
+00:15:19,920 --> 00:15:25,199
+a combination specifically for my stream
+
+375
+00:15:22,860 --> 00:15:28,139
+so hotkeys will be like this one's
+
+376
+00:15:25,199 --> 00:15:31,680
+really going because I don't know many
+
+377
+00:15:28,139 --> 00:15:34,860
+um operator Windows hotkeys that are
+
+378
+00:15:31,680 --> 00:15:38,459
+preset to this by System default but I
+
+379
+00:15:34,860 --> 00:15:41,519
+use uh a shift alt and I'll use left and
+
+380
+00:15:38,459 --> 00:15:44,699
+right for like recording it's dedicated
+
+381
+00:15:41,519 --> 00:15:48,139
+and then I think of this as my screen is
+
+382
+00:15:44,699 --> 00:15:48,139
+up or my stream is down
+
+383
+00:15:48,240 --> 00:15:52,860
+there's some other hotkeys that aren't
+
+384
+00:15:51,240 --> 00:15:54,959
+on here because
+
+385
+00:15:52,860 --> 00:15:57,720
+this is updated and it
+
+386
+00:15:54,959 --> 00:16:00,480
+wiped my my settings to default but
+
+387
+00:15:57,720 --> 00:16:01,980
+that's fine because that's
+
+388
+00:16:00,480 --> 00:16:03,959
+that's just something we have to deal
+
+389
+00:16:01,980 --> 00:16:07,980
+with here is
+
+390
+00:16:03,959 --> 00:16:09,959
+um the advanced tab uh I think this is
+
+391
+00:16:07,980 --> 00:16:11,820
+yeah this is a processing
+
+392
+00:16:09,959 --> 00:16:14,160
+um priority so like
+
+393
+00:16:11,820 --> 00:16:15,779
+if you want this to be over other
+
+394
+00:16:14,160 --> 00:16:18,240
+applications that you currently are
+
+395
+00:16:15,779 --> 00:16:20,699
+running you put it on high you put it on
+
+396
+00:16:18,240 --> 00:16:22,800
+below normal it's just to determine what
+
+397
+00:16:20,699 --> 00:16:24,000
+kind of processing it needs you don't
+
+398
+00:16:22,800 --> 00:16:26,279
+want to mess with any of this stuff
+
+399
+00:16:24,000 --> 00:16:29,339
+unless you know what you're doing
+
+400
+00:16:26,279 --> 00:16:31,920
+um this is just a format it's in I don't
+
+401
+00:16:29,339 --> 00:16:33,779
+know what kind of script this is but the
+
+402
+00:16:31,920 --> 00:16:34,620
+way it's written is
+
+403
+00:16:33,779 --> 00:16:36,959
+um
+
+404
+00:16:34,620 --> 00:16:40,380
+I think it's like
+
+405
+00:16:36,959 --> 00:16:43,800
+I think YY is here so it's like Century
+
+406
+00:16:40,380 --> 00:16:46,380
+Century year year month month day day
+
+407
+00:16:43,800 --> 00:16:48,779
+hour hour then
+
+408
+00:16:46,380 --> 00:16:50,820
+a minute minute and second second
+
+409
+00:16:48,779 --> 00:16:54,060
+I think that's just like the preset for
+
+410
+00:16:50,820 --> 00:16:56,220
+the and that that's like the default you
+
+411
+00:16:54,060 --> 00:16:59,160
+can um choose to override existing files
+
+412
+00:16:56,220 --> 00:17:00,480
+or automatically remix this this is
+
+413
+00:16:59,160 --> 00:17:02,100
+relatively
+
+414
+00:17:00,480 --> 00:17:04,319
+um tedious especially if it's a big file
+
+415
+00:17:02,100 --> 00:17:05,880
+at the end of your stream the last thing
+
+416
+00:17:04,319 --> 00:17:08,339
+you want to do is sit there and let this
+
+417
+00:17:05,880 --> 00:17:10,140
+load out because
+
+418
+00:17:08,339 --> 00:17:12,600
+um you can have like my my files are
+
+419
+00:17:10,140 --> 00:17:15,419
+typically around like 10 gigabytes per
+
+420
+00:17:12,600 --> 00:17:17,360
+video and that's only like probably a
+
+421
+00:17:15,419 --> 00:17:20,339
+couple hours probably of film or footage
+
+422
+00:17:17,360 --> 00:17:22,199
+and uh if you have this set out on it
+
+423
+00:17:20,339 --> 00:17:24,600
+I've noticed it takes quite a bit of
+
+424
+00:17:22,199 --> 00:17:28,260
+time to process and then code re-code it
+
+425
+00:17:24,600 --> 00:17:30,720
+to that format and it can
+
+426
+00:17:28,260 --> 00:17:33,179
+sit there and
+
+427
+00:17:30,720 --> 00:17:36,240
+also I think I think when it does it for
+
+428
+00:17:33,179 --> 00:17:38,039
+me it sometimes crashes so I just leave
+
+429
+00:17:36,240 --> 00:17:39,840
+it alone I'll remix it when I get ready
+
+430
+00:17:38,039 --> 00:17:41,580
+to edit it you can have your stream
+
+431
+00:17:39,840 --> 00:17:43,200
+delay just in case if you or you're
+
+432
+00:17:41,580 --> 00:17:45,240
+worried about um stream snipers you just
+
+433
+00:17:43,200 --> 00:17:48,120
+enable this and then you can set the how
+
+434
+00:17:45,240 --> 00:17:49,080
+many seconds it's really good
+
+435
+00:17:48,120 --> 00:17:50,460
+um
+
+436
+00:17:49,080 --> 00:17:53,400
+a lot of these you got to be careful
+
+437
+00:17:50,460 --> 00:17:55,200
+with because if you hover over and then
+
+438
+00:17:53,400 --> 00:17:58,440
+you move your mouse well as you can see
+
+439
+00:17:55,200 --> 00:18:01,380
+it'll change the settings and you have
+
+440
+00:17:58,440 --> 00:18:04,020
+to go through and reset your settings
+
+441
+00:18:01,380 --> 00:18:05,700
+um this is Network typically you
+
+442
+00:18:04,020 --> 00:18:08,360
+probably won't mess with this
+
+443
+00:18:05,700 --> 00:18:10,740
+you could have this enabled for uh no
+
+444
+00:18:08,360 --> 00:18:12,419
+optimization what it'll think it is
+
+445
+00:18:10,740 --> 00:18:15,140
+what'll sit there is it'll probably
+
+446
+00:18:12,419 --> 00:18:18,660
+capture some some packages just to see
+
+447
+00:18:15,140 --> 00:18:22,500
+how fast it's going and just optimize
+
+448
+00:18:18,660 --> 00:18:25,200
+how your stream should be set up I don't
+
+449
+00:18:22,500 --> 00:18:27,299
+normally use it so I probably wouldn't
+
+450
+00:18:25,200 --> 00:18:30,120
+recommend it the dynamic changing bit
+
+451
+00:18:27,299 --> 00:18:31,919
+rate on the other hand is very useful
+
+452
+00:18:30,120 --> 00:18:33,900
+because there are times especially if
+
+453
+00:18:31,919 --> 00:18:35,480
+you're on your screen or in your
+
+454
+00:18:33,900 --> 00:18:41,460
+settings and using
+
+455
+00:18:35,480 --> 00:18:44,039
+a bit rate for your um for your encoder
+
+456
+00:18:41,460 --> 00:18:46,440
+can fluctuate especially if your
+
+457
+00:18:44,039 --> 00:18:48,299
+Internet isn't good so like if you have
+
+458
+00:18:46,440 --> 00:18:51,000
+anything around
+
+459
+00:18:48,299 --> 00:18:54,600
+say anything around below 20 megabytes
+
+460
+00:18:51,000 --> 00:18:57,539
+it's not really good for streaming it
+
+461
+00:18:54,600 --> 00:19:00,480
+can get very janky because you typically
+
+462
+00:18:57,539 --> 00:19:02,220
+need twice the amount of bit rates so
+
+463
+00:19:00,480 --> 00:19:03,600
+like if you're doing a I think it's like
+
+464
+00:19:02,220 --> 00:19:06,179
+a
+
+465
+00:19:03,600 --> 00:19:09,120
+something like this or is it not so I'm
+
+466
+00:19:06,179 --> 00:19:15,179
+doing 45 so I have 45 kilobits per
+
+467
+00:19:09,120 --> 00:19:19,500
+second that's 4.5 megabytes right so now
+
+468
+00:19:15,179 --> 00:19:20,820
+if I go through I need to have an up I
+
+469
+00:19:19,500 --> 00:19:25,620
+need a half head I think it's like
+
+470
+00:19:20,820 --> 00:19:28,080
+Upstream of at least nine in order to
+
+471
+00:19:25,620 --> 00:19:32,160
+maintain this properly otherwise it's
+
+472
+00:19:28,080 --> 00:19:33,900
+just gonna go through and be relatively
+
+473
+00:19:32,160 --> 00:19:35,580
+choppy
+
+474
+00:19:33,900 --> 00:19:37,020
+so that's a good setting
+
+475
+00:19:35,580 --> 00:19:39,120
+um
+
+476
+00:19:37,020 --> 00:19:41,340
+this is for
+
+477
+00:19:39,120 --> 00:19:44,880
+um browser Source Hardware acceleration
+
+478
+00:19:41,340 --> 00:19:47,820
+there is some like hot hotkey so you can
+
+479
+00:19:44,880 --> 00:19:51,120
+tell it how to behave when it's in Focus
+
+480
+00:19:47,820 --> 00:19:52,860
+or autofocus typically once you do some
+
+481
+00:19:51,120 --> 00:19:54,299
+um when you do adjust some settings
+
+482
+00:19:52,860 --> 00:19:56,039
+you're going to want to hit apply every
+
+483
+00:19:54,299 --> 00:19:57,059
+single time that way it saves you
+
+484
+00:19:56,039 --> 00:20:00,660
+settings and you don't have to go
+
+485
+00:19:57,059 --> 00:20:02,880
+through and uh change them once again
+
+486
+00:20:00,660 --> 00:20:06,179
+it's pretty much it for the basics
+
+487
+00:20:02,880 --> 00:20:09,980
+um feel free to follow my channel and
+
+488
+00:20:06,179 --> 00:20:09,980
+for now happy nightmares
+
